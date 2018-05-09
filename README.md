@@ -1,5 +1,7 @@
 # Machine Learning Working Group Spring 2018
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/aculich/MachineLearningWG/master)
+
 In Spring 2018 MWLG will revisit some traditional algorithms:  
 
 * Jan. 31: [k-nearest neighbors    ](https://github.com/dlab-berkeley/MachineLearningWG/tree/master/Spring2018/Jan31-knn) 
